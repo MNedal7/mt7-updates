@@ -1,0 +1,12 @@
+{
+  "version": "LOCAL",
+  "build": "20260402-025957",
+  "channel": "stable",
+  "package_format": "zip",
+  "package_url": "",
+  "file_name": "",
+  "size_bytes": 0,
+  "sha256": "",
+  "migration_required": false,
+  "migration_safe": true
+}
